@@ -1,0 +1,37 @@
+header{
+    background-color:#ffb8f2;
+    padding:10px;
+  }
+  .navbar{
+    display:flex;
+    justify-content:end;
+    align-items:center;
+  }
+  a{
+    color:#ffffff;
+    text-decoration:none;
+  }
+  ul{
+    display:flex;
+    flex-direction:row;
+  }
+  li{
+    list-style-type:none;
+    padding:15px;
+    background-color:none;
+    margin:3px;
+    border:2px solid #ffffff;
+    margin-bottom:5px;
+  }
+  h1{
+    color:#ff57a8;
+  }
+  .barbie-img{
+    width:200px;
+    height:auto;
+  }
+  .oi{
+    color:#ff57a8;
+    
+  }
+  
