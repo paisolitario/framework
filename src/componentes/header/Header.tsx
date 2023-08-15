@@ -10,7 +10,7 @@ export default function Header() {
       <nav className='navbar'>
         <ul>
           <li>
-            <a href="#">HOME</a>
+            <a href="#">PAGINA INICIAL</a>
           </li>
           <li>
             <a href='#'>SOBRE</a>
